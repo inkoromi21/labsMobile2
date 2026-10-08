@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical"
+  android:padding="@dimen/screen_padding">
+  <EditText
+    android:id="@+id/edit_text_message"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="@string/message_hint"
+    android:inputType="text"
+    android:autofillHints="" />
+  <Button
+    android:id="@+id/button_log"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/control_margin"
+    android:backgroundTint="@color/purple"
+    android:text="@string/button_log"
+    android:textColor="@color/white" />
+  <Button
+    android:id="@+id/button_timber"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/control_margin"
+    android:backgroundTint="@color/purple"
+    android:text="@string/button_timber"
+    android:textColor="@color/white" />
+</LinearLayout>

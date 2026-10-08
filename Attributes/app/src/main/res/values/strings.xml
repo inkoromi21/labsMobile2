@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Attributes</string>
+  <string name="sample_hint">Введите текст</string>
+  <string name="black_text">Чёрный текст</string>
+  <string name="red_text">Красный текст</string>
+  <string name="small_text">Размер — 8sp</string>
+  <string name="large_text">Размер — 24sp</string>
+  <string name="white_background">Белый фон</string>
+  <string name="yellow_background">Жёлтый фон</string>
+</resources>

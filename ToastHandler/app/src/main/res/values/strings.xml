@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">ToastHandler</string>
+  <string name="button_ok">ОК</string>
+  <string name="toast_message">Кнопка ОК</string>
+</resources>
